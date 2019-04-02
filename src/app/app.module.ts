@@ -9,7 +9,8 @@ import { TodosComponent } from './todos/todos.component';
 @NgModule({
   declarations: [
     AppComponent,
-    VoterComponent
+    VoterComponent,
+    TodosComponent
   ],
   imports: [
     BrowserModule,
